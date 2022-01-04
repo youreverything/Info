@@ -1,0 +1,36 @@
+body{
+  background-color: #E5E9F5;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+}
+hr {
+  border-color: grey;
+  border-width: 6px;
+  border-style: dotted none none none;
+  height: 0;
+  width: 10%;
+
+}
+
+.education {
+  text-align: center;
+}
+.skills{
+  text-align: center;
+}
+
+ul  {
+  list-style: none;
+}
+ol{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+h1 {
+  color:#4E0FA6;
+}
+h2, h3, h4, h5, h6 {
+  color: #9F66D9;
+}
